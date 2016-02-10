@@ -1,4 +1,6 @@
 eurekaServer/.classpath
 eurekaServer/.project
+eurekaServer/target
 linguaClient/.project
 linguaClient/.classpath
+linguaClient/target
